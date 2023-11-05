@@ -8,7 +8,7 @@ export const ContactlistList = styled.li`
 `;
 
 export const ContactlistButton = styled.button`
-  color: #cc0066;
+  color: #0080ff;
   background-color: #ff0066;
   box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.9);
 `;
