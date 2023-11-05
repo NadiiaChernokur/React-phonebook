@@ -54,7 +54,6 @@ state = {
   };
 
   
-  
   render() {
     const { filter, contacts } = this.state;
 
